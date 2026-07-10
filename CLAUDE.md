@@ -9,7 +9,7 @@
 - 配布形態: Claude Codeスキル(GitHubからインストール)
 
 ## ディレクトリ構成
-- `SKILL.md` — スキル本体(配布物)。ユーザーは `~/.claude/skills/mercilint/` にcloneして使う
+- `SKILL.md` — スキル本体(配布物)。ユーザーは `~/.claude/skills/roast/` にcloneして使う(コマンド名はディレクトリ名で決まるため)
 - `README.md` — 英語の公開用README(配布物)
 - `docs/` — 内部ドキュメント(日本語)。IDEA.md(壁打ち結果)、REQUIREMENTS.md(要件・マイルストーン)
 

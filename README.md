@@ -7,7 +7,7 @@ A Claude Code skill that reviews your working diff with zero mercy — but every
 ## Install
 
 ```bash
-git clone https://github.com/kpab/mercilint ~/.claude/skills/mercilint
+git clone https://github.com/kpab/mercilint ~/.claude/skills/roast
 ```
 
 ## Usage

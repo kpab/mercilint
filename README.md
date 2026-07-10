@@ -84,3 +84,7 @@ Code review feedback lands harder when you actually want to read it. mercilint w
 
 - [Claude Code](https://claude.com/claude-code)
 - A git repo with uncommitted changes (the chef refuses to inspect an empty plate)
+
+## License
+
+[MIT](LICENSE)

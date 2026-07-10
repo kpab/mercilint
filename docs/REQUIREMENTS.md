@@ -45,7 +45,7 @@
   - [x] キャラの具体像を決める → 辛辣シェフ(Ramsay風厨房の暴君)。roast=料理用語のブランド一貫性とミーム認知が根拠
   - [x] roast一件ごとの出力テンプレートを確定する → severity(RAW/BURNT/BLAND/GARNISH) + burn + fix
   - [x] SKILL.md本体を書き上げる(diff取得→レビュー→出力の手順、diffが空のときの振る舞い含む)
-  - [ ] `~/.claude/skills/mercilint` にリンクし、実際のdiffで /roast を叩いて出力を検証・調整する
+  - [x] `~/.claude/skills/roast` にリンクし、実際のdiffで検証 → 欠陥入りdiffでドライラン済み、出力は仕様どおり(SKILL.md調整不要)。実セッションでの発火確認は日常使い(M2)で継続
 - **M2**: キャラ磨き込み＋英語README(デモ例つき)完成。数日間の日常使いでroastの精度・面白さを検証
 - **M3**: public化(MIT付与)、初動の見せ方(Show HN / X投稿等)を実行
 

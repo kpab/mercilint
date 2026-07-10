@@ -14,7 +14,7 @@
 - `docs/` — 内部ドキュメント(日本語)。IDEA.md(壁打ち結果)、REQUIREMENTS.md(要件・マイルストーン)
 
 ## コマンド
-ビルド・テストなし。動作確認は `ln -s $(pwd) ~/.claude/skills/mercilint` でリンクし、実際のdiffがあるリポジトリで `/roast` を叩く
+ビルド・テストなし。動作確認は `ln -s $(pwd) ~/.claude/skills/roast` でリンクし(コマンド名はディレクトリ名で決まる)、実際のdiffがあるリポジトリで `/roast` を叩く
 
 ## 規約・注意点
 - **ユーザー向け成果物(SKILL.md・README・roast文言)はすべて英語**。グローバル向けで日本語ローカライズはしない。docs/ 配下の内部ドキュメントは日本語でよい
